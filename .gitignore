@@ -1,3 +1,6 @@
 # Dependencies
 node_modules/
 package-lock.json
+
+# Data files (large XML feeds)
+data/

@@ -2,6 +2,7 @@
   "name": "publitas-technical-assignment",
   "version": "1.0.0",
   "description": "Product feed batcher",
+  "type": "module",
   "main": "index.js",
   "directories": {
     "test": "tests"
