@@ -183,3 +183,24 @@ Processing complete!
 ```
 
 **Performance:** ~5-8 seconds total execution time
+
+## Testing
+
+### Run Tests
+
+```bash
+# Run all tests
+npm test
+
+# Run tests in watch mode
+npm run test:watch
+
+# Run tests with coverage
+npm run test:coverage
+```
+
+### Test Coverage
+
+- ✅ **Parser Tests** (10 tests) - XML parsing, field extraction, error handling
+- ✅ **Batcher Tests** (6 tests) - Batching logic, size limits, data integrity
+- ✅ **Integration Tests** (5 tests) - End-to-end workflows, performance
